@@ -1,9 +1,8 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Abdul Hafiz</h1>
 <h3 align="center">Undergraduate Informatics Engineering Student in Padang State University</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="left"> <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="codefiz" /> </p>
 
 - 🌱 I’m currently learning **Website Programming, Data Programming, and Application.**
 
